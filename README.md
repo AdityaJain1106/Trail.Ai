@@ -77,6 +77,8 @@ That is exactly what this README provides.
 # 🎁 Template (This Project)
 
 Below is a full breakdown of the core features and why they matter.
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/a1d851b4-75b5-4500-8b26-9d22d9c0ecca" />
+
 
 ---
 
