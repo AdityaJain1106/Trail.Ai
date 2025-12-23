@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "@google-cloud/speech": "^7.2.1",
+    "@google-cloud/vertexai": "^1.10.0",
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.3",
+    "express": "^5.1.0",
+    "firebase": "^12.6.0",
+    "multer": "^2.0.2",
+    "node-fetch": "^3.3.2",
+    "pdf-parse": "^2.4.5"
+  }
+}
